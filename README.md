@@ -1,5 +1,5 @@
 # Ramadan-Kareem
-website help people to  donate  and know the places of mosques
+website help people to donate and know the places of mosques and to know the time of the religion lessons in each mosque. 
 
 ## Demo 
 
